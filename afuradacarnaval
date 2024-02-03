@@ -6,21 +6,21 @@
 <style>
 #animation1{
 	position: absolute;
-	left: 100px;       
+	left: 100px;      
 	top: 214px;
 	height: 447px;
 	width: 400px;
 	}
 #animation2{
 	position: absolute;
-	left: 1050px;      
+	left: 1050px;       
 	top: 214px;
 	height: 447px;
 	width: 400px;
 	}
 #animation3{
 	position: absolute;
-	left: 500px;      
+	left: 500px;       
 	top: 130px;
 	height: 600px;
 	width: 600px;
@@ -38,5 +38,5 @@
     		
 
 
-</body>
+</body></body>
 </html>
